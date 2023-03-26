@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**shady-seal/shady-seal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate of Le Wagon's fullstack developer bootcamp based in Lisbon, and I'm currently looking for work as a developer. With a background in chemical engineering and management in the hospitality industry, I bring a unique perspective to my work.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+- Building web applications using Ruby on Rails and JavaScript.
+## 🌱 I’m currently learning
+- React and Redux
+## 💬 Ask me about
+- My journey to becoming a fullstack developer.
+- My experience in chemical engineering and the hospitality industry.
+- My travels in Latin America, Australia and India
+- My experience as a yoga teacher
+## 📫 How to reach me
+- LinkedIn: [sofia-eriksson-stook](https://www.linkedin.com/in/sofia-eriksson-stook/)
+- Email: sofiaes@live.se
+## 🚀 Skills
+- Ruby on Rails
+- JavaScript
+- HTML/CSS
+- SQL
+- Git
+- Slack
+## 😄 Pronouns
+- she/her
+## 🌎 Fun fact
+- My favourite animal is 🦝
+## 💻 Projects
+- Tag Along (web aplication) [view](https://github.com/DanielSGaspar/tag_along)
