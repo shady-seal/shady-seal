@@ -5,7 +5,7 @@ I'm a graduate of Le Wagon's fullstack developer bootcamp based in Lisbon, and I
 ## 🔭 I’m currently working on
 - Building web applications using Ruby on Rails and JavaScript.
 ## 🌱 I’m currently learning
-- React and Redux
+- TypeScript
 ## 💬 Ask me about
 - My journey to becoming a fullstack developer.
 - My experience in chemical engineering and the hospitality industry.
@@ -15,12 +15,12 @@ I'm a graduate of Le Wagon's fullstack developer bootcamp based in Lisbon, and I
 - LinkedIn: [sofia-eriksson-stook](https://www.linkedin.com/in/sofia-eriksson-stook/)
 - Email: sofiaes@live.se
 ## 🚀 Skills
+- TypeScript
 - Ruby on Rails
 - JavaScript
 - HTML/CSS
 - SQL
 - Git
-- Slack
 ## 😄 Pronouns
 - she/her
 ## 🌎 Fun fact
