@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a recent graduate of Le Wagon's fullstack developer bootcamp based in Lisbon, and I'm currently looking for work as a developer. With a background in chemical engineering and management in the hospitality industry, I bring a unique perspective to my work.
+I'm a graduate of Le Wagon's fullstack developer bootcamp based in Lisbon, and I'm currently working as a support & software engineer at Levellr. With a background in chemical engineering and management in the hospitality industry, I bring a unique perspective to my work.
 
 ## 🔭 I’m currently working on
 - Building web applications using Ruby on Rails and JavaScript.
